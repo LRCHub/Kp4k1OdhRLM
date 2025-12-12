@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Duel",
+  "base_artist": "アイドルカレッジ",
+  "createdAt": "2025-12-12T19:10:06.323649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Full Moon Duel",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/01_Full_Moon_Duel_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Death Duel Productions",
+      "artist": "The Dead Science",
+      "has_synced": false,
+      "path": "select/02_Death_Duel_Productions_The_Dead_Science.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Duel",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/03_Duel_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Duel",
+      "artist": "Propaganda",
+      "has_synced": true,
+      "path": "select/04_Duel_Propaganda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Duel - Bittersweet",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/05_Duel_-_Bittersweet_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Duel (Bitter Sweet)",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/06_Duel_(Bitter_Sweet)_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Duel (Thirds)",
+      "artist": "Propaganda",
+      "has_synced": true,
+      "path": "select/07_Duel_(Thirds)_Propaganda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Duel - Analogue Variation",
+      "artist": "Propaganda",
+      "has_synced": true,
+      "path": "select/08_Duel_-_Analogue_Variation_Propaganda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Duel (analogue variation)",
+      "artist": "Propaganda",
+      "has_synced": true,
+      "path": "select/09_Duel_(analogue_variation)_Propaganda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Duel of the Iron Mic",
+      "artist": "GZA/Genius feat. Ol’ Dirty Bastard, Rebel Ins & Masta Killa",
+      "has_synced": true,
+      "path": "select/10_Duel_of_the_Iron_Mic_GZA_Genius_feat._Ol’_Dirty_Bastard,_Rebel_Ins_&_Masta_Killa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Duel Of The Iron Mic feat. Dreddy Kruger",
+      "artist": "GZA/Genius",
+      "has_synced": true,
+      "path": "select/11_Duel_Of_The_Iron_Mic_feat._Dreddy_Kruger_GZA_Genius.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Duel",
+      "artist": "Swervedriver",
+      "has_synced": true,
+      "path": "select/12_Duel_Swervedriver.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Duel",
+      "artist": "アイドルカレッジ",
+      "has_synced": false,
+      "path": "select/pl_01_Duel_アイドルカレッジ.txt"
+    }
+  ]
+}
